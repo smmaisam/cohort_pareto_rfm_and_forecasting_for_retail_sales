@@ -13,4 +13,3 @@ This project aims to provide an in-depth analysis of retail sales using the UCI 
 - **Sales Forecasting using FB Prophet**: Utilizing the FB Prophet library for time series forecasting to predict future sales trends, aiding in better inventory and resource planning.
 
 By integrating these analyses, the project provides comprehensive insights that can inform strategic decisions in retail management, ultimately enhancing customer engagement and operational efficiency.
-
